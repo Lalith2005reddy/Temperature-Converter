@@ -1,5 +1,3 @@
-// script.js
-
 function convert(unit) {
   let celsius = parseFloat(document.getElementById('celsius').querySelector('input').value) || 0;
   let fahrenheit = parseFloat(document.getElementById('fahrenheit').querySelector('input').value) || 0;
